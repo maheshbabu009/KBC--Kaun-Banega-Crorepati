@@ -16,7 +16,7 @@ public class Simple {
         Simple x=new Simple(); 
         Scanner m=new Scanner(System.in);
  
-  
+  mahesh
         Long Logo;
         Logo = System.currentTimeMillis();
         if(Logo%3==0){
